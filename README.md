@@ -1,0 +1,2 @@
+# PatientRecordManagementSystem
+Console based project
